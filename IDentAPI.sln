@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDentAPI", "IDentAPI\IDentAPI.csproj", "{FBDBC677-B948-4AA2-BD6F-2781E7C8132B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBDBC677-B948-4AA2-BD6F-2781E7C8132B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDBC677-B948-4AA2-BD6F-2781E7C8132B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDBC677-B948-4AA2-BD6F-2781E7C8132B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDBC677-B948-4AA2-BD6F-2781E7C8132B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AC9FE5F-00C6-4F51-A4DA-37136E70D13F}
+	EndGlobalSection
+EndGlobal
